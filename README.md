@@ -1,11 +1,13 @@
-# NumberToZhCn
+# NumberToZhTW
+
+Credit: [Liu Gang](https://github.com/liuganggang)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'number_to_zh_cn'
+gem 'number-to-zh-tw'
 ```
 
 And then execute:
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-数字转成中文大写金额
+數字轉成中文大寫金額
 
 number_to_capital_zh(10001.00)               # => '壹万元整',
 number_to_capital_zh(100000.10)              # => '壹拾万元壹角整',

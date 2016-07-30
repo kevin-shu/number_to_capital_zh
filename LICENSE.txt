@@ -1,4 +1,4 @@
-Copyright (c) 2015 liugang
+Copyright (c) 2016 Kevin Shu
 
 MIT License
 
